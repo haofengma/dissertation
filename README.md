@@ -6,6 +6,7 @@ This repository is used for hosting the replication files and supporting project
 [Haofeng Ma](https://clas.uiowa.edu/polisci/people/haofeng-ma)
 <br>Ph.D. Candidate (ABD) in Political Science
 <br>[Department of Political Science](https://clas.uiowa.edu/polisci/), [The University of Iowa](https://uiowa.edu)
+<br>haofeng-ma@uiowa.edu
 
 ## Dissertation Committee ##
 - [Elise Pizzi](https://clas.uiowa.edu/polisci/people/elise-pizzi) (Co-Chair), Department of Political Science, The University of Iowa, elise-pizzi@uiowa.edu
