@@ -1,6 +1,6 @@
 # Understanding the Roles of Languages in Public Opinion
 
-This repository is used for hosting the replication files and supporting projects for the dissertation tentatively titled *Understanding the Roles of Languages in Public Opinion*.
+This repository is used for hosting the replication files and supporting programs for the dissertation tentatively titled *Understanding the Roles of Languages in Public Opinion*.
 
 ## Author ##
 [Haofeng Ma](https://clas.uiowa.edu/polisci/people/haofeng-ma)
