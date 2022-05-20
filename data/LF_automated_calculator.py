@@ -18,7 +18,7 @@ Date Created:
     May 1, 2022, Central Standard Time
     
 Date Last Modified:
-    May 18, 2022, Central Standard Time
+    May 20, 2022, Central Standard Time
 """   
     
 
@@ -37,7 +37,7 @@ Input File:
        Name format: "LP_country.csv".
 
 Output File:
-    1) A csv file stored the linguistic fractionalization for each subnational
+    1) A csv file storing the linguistic fractionalization for each subnational
        unit in a country.
        
        Name format: LF_country.csv".
