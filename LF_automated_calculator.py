@@ -51,16 +51,18 @@ Note:
 
 ##############################
 import os
-os.chdir(r"/Users/haofengma/Documents/Academic/PhD/Doctoral Dissertation/data")
+os.chdir(os.path.dirname(__file__))
 
 country_name = input("Input the country name: ")
 ##############################
 
+LD_file_path = "Linguistic Distance (LD)/"
 LD_file_root_name = "LDmatrix_raw_"
-LD_file_name = LD_file_root_name + country_name + ".csv"
+LD_file_name = LD_file_path + LD_file_root_name + country_name + ".csv"
 
+LP_file_path = "Linguistic Population (LP)/"
 LP_file_root_name = "LP_"
-LP_file_name = LP_file_root_name + country_name + ".csv"
+LP_file_name = LP_file_path + LP_file_root_name + country_name + ".csv"
 
 LDfile = open(LD_file_name, "r")
 LD_read = LDfile.readlines()
@@ -131,10 +133,12 @@ for key in Lfrac_raw.keys():
 import csv
 
 fields = ["Country", "Region", "Lfrac_raw"]
-csv_root_name = "LF_"
-csv_file_name = csv_root_name + country_name + ".csv"
 
-with open(csv_file_name, "w") as f:
+LF_file_path = "Linguistic Fractionalization (LF)/"
+LF_file_root_name = "LF_"
+LF_file_name = LF_file_path + LF_file_root_name + country_name + ".csv"
+
+with open(LF_file_name, "w") as f:
     write = csv.writer(f)
     write.writerow(fields)
     write.writerows(Lfrac_raw_list)  
