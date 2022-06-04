@@ -3,7 +3,7 @@
 This repository is used for hosting the replication files and supporting programs for the dissertation tentatively titled *Understanding the Roles of Languages in Public Opinion*.
 
 ## Author ##
-[Haofeng Ma](https://clas.uiowa.edu/polisci/people/haofeng-ma)
+**[Haofeng Ma](https://clas.uiowa.edu/polisci/people/haofeng-ma)**
 <br>Ph.D. Candidate (ABD) in Political Science
 <br>[Department of Political Science](https://clas.uiowa.edu/polisci/), [The University of Iowa](https://uiowa.edu)
 <br>haofeng-ma@uiowa.edu
